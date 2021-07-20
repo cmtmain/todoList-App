@@ -24,5 +24,5 @@ npm run lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ```
-node_ The modules folder needs your own create
+node_modules modules folder needs your own create
 ```
